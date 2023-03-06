@@ -8,8 +8,8 @@
 
 ![Logo](https://user-images.githubusercontent.com/48457700/120221567-05a91180-c215-11eb-89d5-f91fdab2a430.png)
 
-# NodeJs with Apollo Server and TypeGraphQL
+# Node with Apollo Server and TypeGraphQL
 This is a project created with NodeJs, Apollo Server and TypeGraphQL.
 
-## Image
+## Images
 ![Capture](https://user-images.githubusercontent.com/48457700/120221651-27a29400-c215-11eb-9c4c-4592b19917b0.PNG)
