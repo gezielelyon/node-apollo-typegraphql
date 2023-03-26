@@ -1,15 +1,38 @@
-![GitHub issues](https://img.shields.io/github/issues/programador404/NodeJs-Apollo-Typegraphql)
-![GitHub forks](https://img.shields.io/github/forks/programador404/NodeJs-Apollo-Typegraphql)
-![GitHub stars](https://img.shields.io/github/stars/programador404/NodeJs-Apollo-Typegraphql)
-![GitHub license](https://img.shields.io/github/license/programador404/NodeJs-Apollo-Typegraphql)
-![NodeJs](https://img.shields.io/badge/NodeJs-backend-red)
-![Apollo Server](https://img.shields.io/badge/Apollo-server-yellow)
+<div align='justify'>
+
+<div align='center'>
+
+# **NodeJS Apollo TypegraphQL**
+
+</div>
+
+<div align='center'>
+
+![GitHub issues](https://img.shields.io/github/issues/gezielelyon/node_apollo_typegraphql)
+![GitHub forks](https://img.shields.io/github/forks/gezielelyon/node_apollo_typegraphql)
+![GitHub starts](https://img.shields.io/github/stars/gezielelyon/node_apollo_typegraphql)
+![GitHub license](https://img.shields.io/github/license/gezielelyon/node_apollo_typegraphql)
+![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
+![NodeJS](https://img.shields.io/badge/NodeJS-Runtime-orange)
+![Apollo Server](https://img.shields.io/badge/Apollo-server-purple)
 ![TypeGraphQL](https://img.shields.io/badge/Type-graphql-pink)
 
-![Logo](https://user-images.githubusercontent.com/48457700/120221567-05a91180-c215-11eb-89d5-f91fdab2a430.png)
+</div>
 
-# Node with Apollo Server and TypeGraphQL
-This is a project created with NodeJs, Apollo Server and TypeGraphQL.
+![Image](https://user-images.githubusercontent.com/48457700/120221567-05a91180-c215-11eb-89d5-f91fdab2a430.png)
+
+## **About the project**
+This repository contains a project created with NodeJS, Apollo Server and TypeGraphQL.
+
+## **Technologies**
+The technologies used on the project development are listed below.
+
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Typescript](https://www.typescriptlang.org/)
+- [NodeJS](https://nodejs.org/en)
+- [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
+- [TypegraphQL](https://typegraphql.com/)
+</div>
 
 ## Images
-![Capture](https://user-images.githubusercontent.com/48457700/120221651-27a29400-c215-11eb-9c4c-4592b19917b0.PNG)
+![Image](https://user-images.githubusercontent.com/48457700/159372918-40aab163-6587-4049-a039-0dc0e0dd7f16.png)
