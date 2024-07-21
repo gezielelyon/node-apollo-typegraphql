@@ -8,10 +8,10 @@
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/node_apollo_typegraphql)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/node_apollo_typegraphql)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/node_apollo_typegraphql)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/node_apollo_typegraphql)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/node-apollo-typegraphql)](https://github.com/gezielelyon/node-apollo-typegraphql/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/node-apollo-typegraphql)](https://github.com/gezielelyon/node-apollo-typegraphql/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/node-apollo-typegraphql)](https://github.com/gezielelyon/node-apollo-typegraphql/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/node-apollo-typegraphql)](https://github.com/gezielelyon/node-apollo-typegraphql)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![NodeJS](https://img.shields.io/badge/NodeJS-Runtime-orange)
 ![Apollo Server](https://img.shields.io/badge/Apollo-server-purple)
